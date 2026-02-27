@@ -1,13 +1,13 @@
 function User() {
   return (
     <div>
-      <h1>User name is Aditya Tiwari</h1>
-      <h1>User name is Aditya Tiwari</h1>
-      <h1>User name is Aditya Tiwari</h1>
-      <h1>User name is Aditya Tiwari</h1>
-      <h1>User name is Aditya Tiwari</h1>
-      <h1>User name is Aditya Tiwari</h1>
-      <h1>User name is Aditya Tiwari</h1>
+      <h1>User name is Sulaksh Kharal</h1>
+      <h1>User name is Sulaksh Kharal</h1>
+      <h1>User name is Sulaksh Kharal</h1>
+      <h1>User name is Sulaksh Kharal</h1>
+      <h1>User name is Sulaksh Kharal</h1>
+      <h1>User name is Sulaksh Kharal</h1>
+      <h1>User name is Sulaksh Kharal</h1>
     </div>
   );
 }
